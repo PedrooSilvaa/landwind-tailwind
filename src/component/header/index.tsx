@@ -11,11 +11,11 @@ export function Header() {
       <div className="flex fle-row items-center justify-between w-[88%]">
         <div className="">
           <ul className='flex flex-row gap-8 text-gray-900'>
-            <li gr>Company</li>
-            <li gr>Marketplace</li>
-            <li gr>Features</li>
-            <li gr>Team</li>
-            <li gr>Contact</li>
+            <li >Company</li>
+            <li>Marketplace</li>
+            <li>Features</li>
+            <li>Team</li>
+            <li>Contact</li>
           </ul>
         </div>
         <div className=" flex flex-row gap-4">
